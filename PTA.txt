@@ -1,0 +1,12 @@
+A B C D E F G H 
+A B 30
+A C 40
+A F 120
+B D 200
+B G 300
+D G 50
+C F 30
+F E 90
+E D 110
+E H 80
+H G 100
